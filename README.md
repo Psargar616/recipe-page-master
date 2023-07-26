@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://psargar616.github.io/recipe-page-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Psargar616/recipe-page-master">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -70,5 +70,5 @@ Challenge: Create a recipe page following the given design. You can use your own
 
 ## Contact
 
-- GitHub [@Psargar616](https://{github.com/your-usermame})
+- GitHub [@Psargar616](https://github.com/Psargar616)
 
